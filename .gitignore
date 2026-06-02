@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Prepros
+prepros.cfg
+*.prepros-cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (if used)
+node_modules/

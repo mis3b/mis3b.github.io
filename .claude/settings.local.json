@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"C:/Users/MisabAhamed/Downloads/My Portfolio Repo/mis3b.github.io\" rm --cached .DS_Store)",
+      "Bash(git *)"
+    ]
+  }
+}
